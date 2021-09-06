@@ -1,5 +1,5 @@
 # UserWidgetExample
-A custom UUserWidget class, completely contrustcted via C++ and scalable without relying on UDPIScalingRule.
+A custom UUserWidget class, completely contrustcted via C++ and scalable without relying on UDPIScalingRule. Though, I ended up making a custom scaling rule with a DPI scale value of 1 so supress errors in the log.
 
 ## 
 
